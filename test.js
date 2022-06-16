@@ -3,6 +3,8 @@ console.log(i);
 
 if(i>2){
     console.log("halo");
-}else{
+}else if(i<2){
     console.log("hai");
+}else{
+    console.log("jorginho");
 }
